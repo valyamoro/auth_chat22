@@ -1,0 +1,1 @@
+[{"login":"user","message":"\u0439\u0446\u0432\u0446\u0439"},{"login":"user","message":"qwdqwd"},{"login":"user","message":"zxzcx"},{"login":"kutlumbek22","message":"zxczxc"},{"login":"kutlumbek22","message":"\u044f\u0447\u0441"}]
